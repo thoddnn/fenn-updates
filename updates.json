@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.6",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.6-arm64.dmg",
+    "releaseNotes": "Big update focused on speed, clarity, and flexibility",
+    "releaseDate": "2025-04-20"
+  },
+  {
     "version": "1.0.5",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.5-arm64.dmg",
     "releaseNotes": "1.0.5 bug fixes",
