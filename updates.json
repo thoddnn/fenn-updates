@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.8",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.8-arm64.dmg",
+    "releaseNotes": "Way more image and video types supported",
+    "releaseDate": "2025-05-01"
+  },
+  {
     "version": "1.0.7",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.7-arm64.dmg",
     "releaseNotes": "Search in Notes, search strategy and dragable search bar",
