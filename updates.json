@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.11",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.11-arm64.dmg",
+    "releaseNotes": "New model and cloud indexing features",
+    "releaseDate": "2025-06-30"
+  },
+  {
     "version": "1.0.10",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.10-arm64.dmg",
     "releaseNotes": "More hard filters for search",
