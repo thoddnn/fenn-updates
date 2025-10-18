@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.18",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.17-arm64.dmg",
+    "releaseNotes": "Agentic search",
+    "releaseDate": "2025-10-10"
+  },
+  {
     "version": "1.0.17",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.17-arm64.dmg",
     "releaseNotes": "Person searching, Keynote file compatibility, bug fixes",
