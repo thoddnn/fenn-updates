@@ -1,7 +1,13 @@
 [
   {
+    "version": "1.0.19",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.19-arm64.dmg",
+    "releaseNotes": "Open at the right page, .md support",
+    "releaseDate": "2025-10-20"
+  },
+  {
     "version": "1.0.18",
-    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.17-arm64.dmg",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.18-arm64.dmg",
     "releaseNotes": "Agentic search",
     "releaseDate": "2025-10-10"
   },
