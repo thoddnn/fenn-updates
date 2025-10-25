@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.20",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.19-arm64.dmg",
+    "releaseNotes": "Choose file type by folder, open at the right timestamp for audio and video, bug fixes",
+    "releaseDate": "2025-10-25"
+  },
+  {
     "version": "1.0.19",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.19-arm64.dmg",
     "releaseNotes": "Open at the right page, .md support",
