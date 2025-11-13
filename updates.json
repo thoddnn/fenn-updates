@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.22",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.22-arm64.dmg",
+    "releaseNotes": "Adobe file support, better agent, bug fixes",
+    "releaseDate": "2025-11-05"
+  },
+  {
     "version": "1.0.21",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.21-arm64.dmg",
     "releaseNotes": "Email search support, storage location management, bug fixes",
