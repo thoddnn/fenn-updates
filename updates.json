@@ -1,5 +1,10 @@
 [
-
+{
+    "version": "1.0.24",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.24-arm64.dmg",
+    "releaseNotes": "Chat mode, Search scope and UX improvements",
+    "releaseDate": "2025-12-07"
+  },
   {
     "version": "1.0.23",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.23-arm64.dmg",
