@@ -1,5 +1,11 @@
 [
     {
+    "version": "1.0.27",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.27-arm64.dmg",
+    "releaseNotes": "New nano model , bug fixes",
+    "releaseDate": "2026-01-11"
+  },
+    {
     "version": "1.0.26",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.26-arm64.dmg",
     "releaseNotes": "3x faster indexing , bug fixes",
