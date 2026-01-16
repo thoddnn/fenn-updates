@@ -1,5 +1,11 @@
 [
     {
+    "version": "1.0.28",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.28-arm64.dmg",
+    "releaseNotes": "Use files and folders as context in chat mode, bug fixes",
+    "releaseDate": "2026-01-16"
+  },
+    {
     "version": "1.0.27",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.27-arm64.dmg",
     "releaseNotes": "New nano model , bug fixes",
