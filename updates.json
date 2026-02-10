@@ -1,5 +1,11 @@
 [    
     {
+    "version": "1.1.0",
+    "url": "",
+    "releaseNotes": "New AI native file manager, new Filename mode",
+    "releaseDate": "2026-02-10"
+  },
+    {
     "version": "1.0.29",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.0.29-arm64.dmg",
     "releaseNotes": "More file support in chat, ebook support, bug fixes",
