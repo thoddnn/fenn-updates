@@ -1,7 +1,7 @@
 [    
     {
     "version": "1.1.1",
-    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.1.0-arm64.dmg",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.1.1-arm64.dmg",
     "releaseNotes": "CSV and Libre Office file support, better Magic folder, Audio transcript extraction, bug fix",
     "releaseDate": "2026-02-23"
   },
