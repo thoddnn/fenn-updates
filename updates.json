@@ -1,5 +1,11 @@
 [    
     {
+    "version": "1.1.9",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.1.9-arm64.dmg",
+    "releaseNotes": "New AI model providers, order results by date, remove duplicate files, bug fixes",
+    "releaseDate": "2026-05-4"
+    },
+    {
     "version": "1.1.8",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.1.8-arm64.dmg",
     "releaseNotes": "Better Magic folder, new file support, new models, bug fixes",
