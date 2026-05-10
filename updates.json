@@ -1,9 +1,15 @@
 [    
     {
+    "version": "1.2.0",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.2.0-arm64.dmg",
+    "releaseNotes": "Organize with AI, more file type, bug fixes",
+    "releaseDate": "2026-05-10"
+    },
+    {
     "version": "1.1.9",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.1.9-arm64.dmg",
     "releaseNotes": "New AI model providers, order results by date, remove duplicate files, bug fixes",
-    "releaseDate": "2026-05-4"
+    "releaseDate": "2026-05-04"
     },
     {
     "version": "1.1.8",
