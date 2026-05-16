@@ -1,5 +1,11 @@
 [    
     {
+    "version": "1.2.1",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.2.1-arm64.dmg",
+    "releaseNotes": "More personalization and bug fixes",
+    "releaseDate": "2026-05-16"
+    },
+    {
     "version": "1.2.0",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.2.0-arm64.dmg",
     "releaseNotes": "Organize with AI, more file type, bug fixes",
