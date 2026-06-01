@@ -1,5 +1,11 @@
 [   
     {
+    "version": "1.2.3",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.2.3-arm64.dmg",
+    "releaseNotes": "Faster video indexing, iPhone app generally available, and UX improvements",
+    "releaseDate": "2026-01-06"
+    },
+    {
     "version": "1.2.2",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.2.2-arm64.dmg",
     "releaseNotes": "iPhone app, more cloud model provider and UX improvements",
