@@ -1,5 +1,11 @@
 [   
     {
+    "version": "1.2.6",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.2.6-arm64.dmg",
+    "releaseNotes": "Screen memory and UX improvements ",
+    "releaseDate": "2026-06-27"
+    },
+    {
     "version": "1.2.5",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.2.5-arm64.dmg",
     "releaseNotes": "Figma and Sketch file support, Dark mode and UX improvements ",
