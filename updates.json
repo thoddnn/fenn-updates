@@ -1,5 +1,11 @@
 [   
     {
+    "version": "1.3.0",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.3.0-arm64.dmg",
+    "releaseNotes": "Better chat UX, Automations and UX improvements",
+    "releaseDate": "2026-07-28"
+    },
+    {
     "version": "1.2.9",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.2.9-arm64.dmg",
     "releaseNotes": "Better default AI models, privacy filter and UX improvements",
