@@ -1,5 +1,11 @@
 [   
     {
+    "version": "1.3.4",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.3.4-arm64.dmg",
+    "releaseNotes": "Faster indexing, enhanced visual search, new local AI models, more RAW formats, Raycast integration, and performance improvements.",
+    "releaseDate": "2026-10-05"
+    },
+    {
     "version": "1.3.3",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.3.3-arm64.dmg",
     "releaseNotes": "Better efficiency, MCP and Raycast plugin compatibility",
