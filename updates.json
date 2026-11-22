@@ -1,5 +1,11 @@
 [   
     {
+    "version": "1.3.8",
+    "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.3.8-arm64.dmg",
+    "releaseNotes": "Actions in chat, improved Auto search, new file types support, new Medium model and bug fixes",
+    "releaseDate": "2026-11-22"
+    },
+    {
     "version": "1.3.7",
     "url": "https://pub-f40329f6b3a3433ba182d92b35d4e0a6.r2.dev/Fenn-1.3.7-arm64.dmg",
     "releaseNotes": "Add support for Apple Numbers, Outlook MSG, Visio, XMind, Affinity, Procreate, Pixelmator Pro, Photoshop PSB, AutoCAD, Blender, and SketchUp files, improved filename search and bug fixes.",
